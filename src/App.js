@@ -1,9 +1,10 @@
 import "./App.css";
+import { characters } from "./data";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hi</h1>
+      <h1 className="title">The Simpsons</h1>
     </div>
   );
 }
