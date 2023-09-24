@@ -1,6 +1,6 @@
 # Simpsons
 
-link =>
+link =>  https://simpsonsfamily.netlify.app/  
 
 To run this project you need to have the following:
 
