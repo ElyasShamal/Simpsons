@@ -1,6 +1,5 @@
 import "./App.css";
 import Charecters from "./Components/Charecters";
-import { characters } from "./data";
 
 function App() {
   return (
